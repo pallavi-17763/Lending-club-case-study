@@ -41,10 +41,10 @@ To develop your understanding of the domain, you are advised to independently re
 - Steps for EDA :
 - Data Understanding
 - Data Cleaning
-Univariate Analysis
-Bivariate Analysis
-Multivariate Analysis
-Conclusion
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- Conclusion
 - Data Set : Loan Lending Club loans
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -59,11 +59,11 @@ Conclusion
 
 
 ## Technologies Used
--pandas - 1.3.4
--numpy - 1.20.3
--matplotlib - 3.4.3
--seaborn - 0.11.2
--plotly - 5.8.0
+- pandas - 1.3.4
+- numpy - 1.20.3
+- matplotlib - 3.4.3
+- seaborn - 0.11.2
+- plotly - 5.8.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -76,8 +76,7 @@ https://plotly.com/
 https://pandas.pydata.org/
 https://learn.upgrad.com/
 
-## Contact
-Created by [@pallavi17763] - feel free to contact me!
+## Contact- feel free to contact me!
 
 
 <!-- Optional -->
