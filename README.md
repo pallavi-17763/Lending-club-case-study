@@ -51,7 +51,6 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Conclusions
 - Verified loan applicants are defaulting more than those who are not verified. The company should review its verification process to ensure it effectively assesses applicant creditworthiness and consider improvements or adjustments.
-- 
 - Applicants receiving loan amounts of 15,000 or higher are more likely to default. The company can mitigate this risk by conducting more thorough assessments for larger loan requests and potentially capping loan amounts for higher-risk applicants.
 - Applicants living in rented or mortgaged houses are more likely to default. This information can be considered in the underwriting process to assess housing stability and its impact on repayment ability.
 
@@ -60,16 +59,15 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 ## Technologies Used
-- pandas - 1.3.4
-- numpy - 1.20.3
-- matplotlib - 3.4.3
-- seaborn - 0.11.2
-- plotly - 5.8.0
+- Pandas - 1.3.4
+- Numpy - 1.20.3
+- Matplotlib - 3.4.3
+- Seaborn - 0.11.2
+- Plotly - 5.8.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 This project was group case study for an online advance course.
 https://www.geeksforgeeks.org/
 https://seaborn.pydata.org/
@@ -77,7 +75,6 @@ https://plotly.com/
 https://pandas.pydata.org/
 https://learn.upgrad.com/
 
-## Contact- feel free to contact me!
 
 
 <!-- Optional -->
