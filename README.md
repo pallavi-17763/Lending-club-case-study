@@ -14,7 +14,7 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 <!-- You can include any other section that is pertinent to your problem -->
 ## Problem Statement
-Business Understanding
+## Business Understanding
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
 Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
@@ -38,9 +38,9 @@ In other words, the company wants to understand the driving factors (or driver v
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
 
 ## General Information
-Steps for EDA :
-Data Understanding
-Data Cleaning
+- Steps for EDA :
+- Data Understanding
+- Data Cleaning
 Univariate Analysis
 Bivariate Analysis
 Multivariate Analysis
