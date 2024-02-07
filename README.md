@@ -69,11 +69,11 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Acknowledgements
 This project was group case study for an online advance course.
-https://www.geeksforgeeks.org/
-https://seaborn.pydata.org/
-https://plotly.com/
-https://pandas.pydata.org/
-https://learn.upgrad.com/
+- https://www.geeksforgeeks.org/
+- https://seaborn.pydata.org/
+- https://plotly.com/
+- https://pandas.pydata.org/
+- https://learn.upgrad.com/
 
 
 
